@@ -1,2 +1,0 @@
-# Learvia
-Learvia Android 
